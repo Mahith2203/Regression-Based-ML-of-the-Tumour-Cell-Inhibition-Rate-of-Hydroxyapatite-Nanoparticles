@@ -1,0 +1,4 @@
+,Random Forest (impurity),XGBoost (gain),Random Forest,Random Forest_sd,KNN,KNN_sd,XGBoost,XGBoost_sd
+Sphere diameter (nm),0.3375,0.395,0.8499,0.1897,0.9392,0.2156,0.8594,0.1826
+Inhibition time (days),0.2937,0.1444,0.52,0.1143,0.6313,0.1334,0.5473,0.1042
+Particle concentration,0.3688,0.4606,0.9013,0.215,0.9728,0.2336,0.9015,0.2045

@@ -1,0 +1,5 @@
+,Diameter_nm,Time_days,Concentration,Inhibition_pct
+Diameter_nm,1.0,-0.0,-0.0,-0.489
+Time_days,-0.0,1.0,-0.0,0.168
+Concentration,-0.0,-0.0,1.0,0.542
+Inhibition_pct,-0.489,0.168,0.542,1.0
